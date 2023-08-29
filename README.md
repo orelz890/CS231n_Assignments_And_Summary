@@ -6,9 +6,9 @@
 
 <br/>
 
-## 🌐 Overview
+### 🌐 Overview
 
-Welcome to the repository containing comprehensive summaries and assignment solutions for **CS231n** at Stanford University (2017) and **CV7062610** at Ariel University (2023). This collection represents a synthesis of my personal insights gained from these courses, in combination with supplementary materials sourced from the internet. Please note that the summary is presented in a blend of English and Hebrew. It's important to emphasize that no instructor has reviewed or endorsed this summary. The information provided is founded on my own interpretations.
+Welcome to the repository containing comprehensive summaries and assignment solutions for **CS231n** at Stanford University (2017) and **CV7062610** at Ariel University (2023). This collection represents a synthesis of my personal insights gained from these courses, in combination with supplementary materials sourced from the internet. **Please note that the summary is presented in a blend of English and Hebrew**. It's important to emphasize that no instructor has reviewed or endorsed this summary. The information provided is founded on my own interpretations.
 
 <br/><br/>
 
@@ -28,17 +28,14 @@ Welcome to the repository containing comprehensive summaries and assignment solu
 
 - It is advised to run in [Colab](https://colab.research.google.com/), however, you can also run locally. To do so, first, set up your environment - either through [conda](https://docs.conda.io/en/latest/) or [venv](https://docs.python.org/3/library/venv.html). It is advised to install [PyTorch](https://pytorch.org/get-started/locally/) in advance with GPU acceleration. Then, follow the steps:
 
-  1. Install the required packages:
-     ```bash
-     pip install -r requirements.txt
-     ```
-  2. Change every first code cell in `.ipynb` files to:
+
+  1. Change every first code cell in `.ipynb` files to:
      ```bash
      %cd CV7062610/datasets/
      !bash get_datasets.sh
      %cd ../../
      ```
-  3. Change the first code cell in section **Fast Layers** in [ConvolutionalNetworks.ipynb](assignment2/ConvolutionalNetworks.ipynb) to:
+  2. Change the first code cell in section **Fast Layers** in [ConvolutionalNetworks.ipynb](assignment2/ConvolutionalNetworks.ipynb) to:
      ```bash
      %cd CV7062610
      !python setup.py build_ext --inplace
@@ -55,7 +52,7 @@ Additionally, install the requirements specified under each assignment folder.
 
 <br/>
 
-## 📖 Key Resources
+### 📖 Key Resources
 
 - **Stanford Lecture videos (2017)** - [📺 Lecture Videos](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - **Ariel Lecture Slides (2023)** - Only Students can access that info...
@@ -64,7 +61,7 @@ Additionally, install the requirements specified under each assignment folder.
 
 
 <!-- Table of contents -->
-## 🗺️🧭🔍 Summary Table of Contents
+### 🗺️🧭🔍 Summary Table of Contents
    * [01. Linear Classifier & Cross Validation](#image-0)
    * [02. Batch Normaliztion (More Details in 15)](#image-1)
    * [03. Optimizations - SGD, Momentun, Nesterov, Adam & Dropout (More Details in 17)](#image-2)
@@ -100,7 +97,7 @@ Additionally, install the requirements specified under each assignment folder.
 
 
 <!-- Actual Summary -->
-## 📄 Summary
+### 📄 Summary
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="images/ff3d5f54_1.png" alt="Image 1" style="width: 95%; margin-bottom: 10px;">
     <img src="images/ff3d5f54_2.png" alt="Image 2" style="width: 95%; margin-bottom: 10px;">
