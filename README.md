@@ -165,4 +165,10 @@ Additionally, install the requirements specified under each assignment folder.
   <img src="images/ff3d5f54_64.png" alt="Image 64" style="width: 95%; margin-bottom: 10px">
   <img src="images/ff3d5f54_65.png" alt="Image 65" style="width: 95%; margin-bottom: 10px">
 </div>
+</br></br>
+
+
+## License
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
