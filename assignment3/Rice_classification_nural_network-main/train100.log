@@ -1,0 +1,145 @@
+Epoche 1 
+---------------------
+
+loss: 2.625067	Accuracy: 1.562500	currect: [      1/   64]
+
+loss: 0.262354	Accuracy: 72.818688	currect: [   4707/ 6464]
+
+loss: 0.098181	Accuracy: 82.167289	currect: [  10570/12864]
+
+loss: 0.091360	Accuracy: 86.435839	currect: [  16651/19264]
+
+loss: 0.109734	Accuracy: 89.004052	currect: [  22842/25664]
+
+loss: 0.086879	Accuracy: 90.534556	currect: [  29029/32064]
+
+loss: 0.047776	Accuracy: 91.550541	currect: [  35214/38464]
+
+loss: 0.043946	Accuracy: 92.383648	currect: [  41447/44864]
+
+loss: 0.130676	Accuracy: 93.020443	currect: [  47686/51264]
+
+loss: 0.046928	Accuracy: 93.422239	currect: [  53871/57664]
+
+Test 
+---------------------
+
+Test Error: 
+Accuracy: 95.9%, Avg loss: 0.002017
+
+Epoche 1 
+---------------------
+
+loss: 2.066300	Accuracy: 25.000000	currect: [     16/   64]
+
+loss: 0.280010	Accuracy: 78.186881	currect: [   5054/ 6464]
+
+loss: 0.085405	Accuracy: 86.279540	currect: [  11099/12864]
+
+loss: 0.022829	Accuracy: 89.841154	currect: [  17307/19264]
+
+loss: 0.109709	Accuracy: 91.727712	currect: [  23541/25664]
+
+loss: 0.034721	Accuracy: 92.786302	currect: [  29751/32064]
+
+loss: 0.134259	Accuracy: 93.583611	currect: [  35996/38464]
+
+loss: 0.028790	Accuracy: 94.200250	currect: [  42262/44864]
+
+loss: 0.049125	Accuracy: 94.699984	currect: [  48547/51264]
+
+loss: 0.026479	Accuracy: 95.055841	currect: [  54813/57664]
+
+Test 
+---------------------
+
+Test Error: 
+Accuracy: 88.7%, Avg loss: 0.005364
+
+Epoche 1 
+---------------------
+
+loss: 2.149674	Accuracy: 20.312500	currect: [     13/   64]
+
+loss: 0.228890	Accuracy: 78.991337	currect: [   5106/ 6464]
+
+loss: 0.054015	Accuracy: 87.764303	currect: [  11290/12864]
+
+loss: 0.058277	Accuracy: 90.962417	currect: [  17523/19264]
+
+loss: 0.087344	Accuracy: 92.768080	currect: [  23808/25664]
+
+loss: 0.074404	Accuracy: 93.952720	currect: [  30125/32064]
+
+loss: 0.094251	Accuracy: 94.704139	currect: [  36427/38464]
+
+loss: 0.013420	Accuracy: 95.281295	currect: [  42747/44864]
+
+loss: 0.023426	Accuracy: 95.679229	currect: [  49049/51264]
+
+loss: 0.062420	Accuracy: 96.025250	currect: [  55372/57664]
+
+Test 
+---------------------
+
+Test Error: 
+Accuracy: 99.1%, Avg loss: 0.000478
+
+Epoche 1 
+---------------------
+
+loss: 2.406573	Accuracy: 12.500000	currect: [      8/   64]
+
+loss: 0.309316	Accuracy: 76.577970	currect: [   4950/ 6464]
+
+loss: 0.085110	Accuracy: 86.551617	currect: [  11134/12864]
+
+loss: 0.096285	Accuracy: 90.261628	currect: [  17388/19264]
+
+loss: 0.077520	Accuracy: 92.070605	currect: [  23629/25664]
+
+loss: 0.092722	Accuracy: 93.232285	currect: [  29894/32064]
+
+loss: 0.069297	Accuracy: 94.072379	currect: [  36184/38464]
+
+loss: 0.063011	Accuracy: 94.708452	currect: [  42490/44864]
+
+loss: 0.083805	Accuracy: 95.181804	currect: [  48794/51264]
+
+loss: 0.036747	Accuracy: 95.591704	currect: [  55122/57664]
+
+Test 
+---------------------
+
+Test Error: 
+Accuracy: 99.3%, Avg loss: 0.000535
+
+Epoche 1 
+---------------------
+
+loss: 2.517888	Accuracy: 12.500000	currect: [      8/   64]
+
+loss: 1.075468	Accuracy: 54.146040	currect: [   3500/ 6464]
+
+loss: 0.602279	Accuracy: 68.291356	currect: [   8785/12864]
+
+loss: 0.450255	Accuracy: 75.695598	currect: [  14582/19264]
+
+loss: 0.346660	Accuracy: 79.940773	currect: [  20516/25664]
+
+loss: 0.274134	Accuracy: 82.887350	currect: [  26577/32064]
+
+loss: 0.257748	Accuracy: 85.079555	currect: [  32725/38464]
+
+loss: 0.109805	Accuracy: 86.791191	currect: [  38938/44864]
+
+loss: 0.193292	Accuracy: 88.124220	currect: [  45176/51264]
+
+loss: 0.135727	Accuracy: 89.196032	currect: [  51434/57664]
+
+Test 
+---------------------
+
+Test Error: 
+Accuracy: 98.3%, Avg loss: 0.001455
+
