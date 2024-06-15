@@ -2,6 +2,8 @@
 
 Welcome to the Rice Classification Project! This project aims to classify five different types of rice based on their images. We have created a classification model that achieved an impressive accuracy of 99.1% on the test dataset. Follow the instructions below to get started!
 
+
+
 ## 📦 Requirements & Installations
 
 Before you begin, make sure you have the following installed on your machine:
@@ -12,7 +14,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 ## 📂 Dataset
 
-To run this code, you need to download the dataset from [this link](https://drive.google.com/file/d/1eSp5f5ih17blcqjgxJQ1IKx9a7QXTqJT/view?usp=sharing). The folder name of the dataset should be called **Rice_Image_dataset**. Copy and paste it into the project folder, and please **do not change its name**.
+To run this code, you need to download the dataset from [this link](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset) <!-- [this link](https://drive.google.com/file/d/1eSp5f5ih17blcqjgxJQ1IKx9a7QXTqJT/view?usp=sharing) -->. The folder name of the dataset should be called **Rice_Image_dataset**. Copy and paste it into the project folder, and please **do not change its name**.
 
 ## 🚀 Training the Model
 
@@ -26,9 +28,15 @@ python3 model_creator.py
 
 If you want to use the pretrained model for inference, follow this example:
 
+
 ```bash
-python3 myScript.py "Rice_Image_Dataset/Ipsala/Ipsala (2).jpg"
+    python3 myScript.py "ImagePath.jpg"
 ```
+| Arborio | Ipsala_rice | ... |
+| :---: | :---: | :---: |
+| <img src="pics/Arborio_rice.jpg" alt="login" width="150" /> | <img src="pics/Ipsala_rice.jpg" alt="login" width="150" /> |
+| <img src="pics/Result1.png" alt="login" width="150" />      | <img src="pics/Result2.png" alt="login" width="150" />     |
+
 
 ## 🧠 Network Architecture
 
