@@ -34,8 +34,8 @@ If you want to use the pretrained model for inference, follow this example:
 ```
 | Arborio | Ipsala_rice | ... |
 | :---: | :---: | :---: |
-| <img src="pics/Arborio_rice.jpg" alt="login" width="150" /> | <img src="pics/Ipsala_rice.jpg" alt="login" width="150" /> |
-| <img src="pics/Result1.png" alt="login" width="150" />      | <img src="pics/Result2.png" alt="login" width="150" />     |
+| <img src="pics/Arborio_rice.jpg" alt="" width="150" /> | <img src="pics/Ipsala_rice.jpg" alt="" width="150" /> |
+| <img src="pics/Result1.png" alt="" width="150" />      | <img src="pics/Result2.png" alt="" width="150" />     |
 
 
 ## 🧠 Network Architecture

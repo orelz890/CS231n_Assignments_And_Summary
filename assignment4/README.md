@@ -6,12 +6,12 @@ Welcome to my GAN project for generating realistic handwritten digits using PyTo
 
 | 1 Epoch | 5 Epochs | ... |
 | :---: | :---: | :---: |
-| <img src="pics/after_1_epoch.png" alt="login" width="250" /> | <img src="pics/after_5_epochs.png" alt="login" width="250" /> |
+| <img src="pics/after_1_epoch.png" alt="" width="250" /> | <img src="pics/after_5_epochs.png" alt="" width="250" /> |
 
 | After Training |
 | :---: |
-| <img src="pics/after_training.png" alt="login" width="250" /> |
-| <img src="pics/results.png" alt="login" width="250" /> |
+| <img src="pics/after_training.png" alt="" width="250" /> |
+| <img src="pics/results.png" alt="" width="250" /> |
 
 ## Overview 🌟
 
