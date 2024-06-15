@@ -2,6 +2,17 @@
 
 Welcome to my GAN project for generating realistic handwritten digits using PyTorch and the MNIST dataset! 🎉
 
+## Results
+
+| 1 Epoch | 5 Epochs | ... |
+| :---: | :---: | :---: |
+| <img src="pics/after_1_epoch.png" alt="" width="250" /> | <img src="pics/after_5_epochs.png" alt="" width="250" /> |
+
+| After Training |
+| :---: |
+| <img src="pics/after_training.png" alt="" width="250" /> |
+| <img src="pics/results.png" alt="" width="250" /> |
+
 ## Overview 🌟
 
 Generative Adversarial Networks (GANs) are a powerful class of deep learning models used for image generation tasks. This project explores the implementation of a GAN to generate lifelike images of handwritten digits. The GAN comprises two key components: a generator and a discriminator. 🧙‍♂️🕵️‍♂️
